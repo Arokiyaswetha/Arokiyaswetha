@@ -77,7 +77,6 @@ I'm seeking **software development roles** focused on full-stack or frontend-hea
 
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🤖 AI & LLM Tools
