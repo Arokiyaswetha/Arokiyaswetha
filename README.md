@@ -12,7 +12,7 @@
 <a href="mailto:swethakethees2212@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://swetha-s-portfolio-hub.vercel.app/-portfolio" target="_blank">
+<a href="https://my-portfolio-eight-zeta-93.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/Arokiyaswetha" target="_blank">
@@ -195,7 +195,7 @@ I'm seeking **software development roles** focused on full-stack or frontend-hea
 <a href="mailto:swethakethees2212@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://swetha-s-portfolio-hub.vercel.app/-portfolio">
+<a href="https://my-portfolio-eight-zeta-93.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View_My_Work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://huggingface.co/swethaaro">
