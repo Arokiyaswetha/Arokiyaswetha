@@ -138,7 +138,7 @@ I'm seeking **software development roles** focused on full-stack or frontend-hea
 
 #### 🎓 NPTEL Certifications
 - 🥈 **Big Data Computing** — IIT Kanpur | Elite + Silver | **87%** — Hadoop, Spark, distributed systems
-- ☁️ **Cloud Computing** — NPTEL | **84%** — Cloud infrastructure, virtualization
+- ☁️ **Cloud Computing** — NPTEL | **82%** — Cloud infrastructure, virtualization
 - 🌱 **Education for Sustainable Development** — NPTEL | **97%** — Top distinction
 - 💡 **Programming in Java** — NPTEL
 - 🐍 **Joy of Computing Using Python** — NPTEL
